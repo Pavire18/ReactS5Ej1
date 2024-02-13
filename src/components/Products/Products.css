@@ -1,0 +1,19 @@
+.product-list{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 25px;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.product-card{
+    border: 1px solid black;
+    padding: 15px;
+}
+
+.product-img{
+    height: 150px;
+}
